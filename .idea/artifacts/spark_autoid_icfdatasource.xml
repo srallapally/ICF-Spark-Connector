@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spark-autoid-icfdatasource">
+    <output-path>$PROJECT_DIR$/out/artifacts/spark_autoid_icfdatasource</output-path>
+    <root id="archive" name="spark-autoid-icfdatasource.jar">
+      <element id="module-output" name="SparkJavaDataSource" />
+    </root>
+  </artifact>
+</component>
