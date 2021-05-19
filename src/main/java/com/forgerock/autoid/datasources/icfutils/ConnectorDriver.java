@@ -1,4 +1,4 @@
-package com.forgerock.autoid.datasources.icf;
+package com.forgerock.autoid.datasources.icfutils;
 
 import com.forgerock.autoid.datasources.utils.ICFAttribute;
 import com.forgerock.autoid.datasources.utils.ObjColumn;

@@ -1,4 +1,4 @@
-package com.forgerock.autoid.datasources.icf;
+package com.forgerock.autoid.datasources.icfutils;
 import java.util.ArrayList;
 import java.util.List;
 

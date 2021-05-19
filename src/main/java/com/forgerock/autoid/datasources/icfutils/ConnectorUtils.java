@@ -1,4 +1,4 @@
-package com.forgerock.autoid.datasources.icf;
+package com.forgerock.autoid.datasources.icfutils;
 
 import org.identityconnectors.framework.api.APIConfiguration;
 import org.identityconnectors.framework.api.ConfigurationProperties;

@@ -1,4 +1,4 @@
-package com.forgerock.autoid.datasources.icf;
+package com.forgerock.autoid.datasources.icfutils;
 import org.identityconnectors.framework.api.*;
 import org.identityconnectors.framework.common.exceptions.ConnectorException;
 import org.identityconnectors.framework.impl.api.ConnectorInfoManagerFactoryImpl;

@@ -1,6 +1,6 @@
-package com.forgerock.autoid.datasources;
+package com.forgerock.autoid.datasources.icf;
 
-import com.forgerock.autoid.datasources.icf.ConnectorDriver;
+import com.forgerock.autoid.datasources.icfutils.ConnectorDriver;
 import com.forgerock.autoid.datasources.utils.ObjColumn;
 import com.forgerock.autoid.datasources.utils.SparkSourceUtils;
 import org.apache.spark.api.java.JavaRDD;

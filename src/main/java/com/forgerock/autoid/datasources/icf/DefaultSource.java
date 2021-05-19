@@ -1,12 +1,11 @@
-package com.forgerock.autoid.datasources;
+package com.forgerock.autoid.datasources.icf;
 
-import com.forgerock.autoid.datasources.icf.ConnectorDriver;
+import com.forgerock.autoid.datasources.icfutils.ConnectorDriver;
 import org.apache.commons.lang.StringEscapeUtils;
 import org.apache.spark.sql.SQLContext;
 import org.apache.spark.sql.sources.BaseRelation;
 import org.apache.spark.sql.sources.DataSourceRegister;
 import org.apache.spark.sql.sources.RelationProvider;
-import org.apache.spark.sql.types.StructType;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 import org.slf4j.Logger;
